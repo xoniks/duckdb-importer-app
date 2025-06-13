@@ -21,6 +21,8 @@ A desktop application for importing CSV and Excel files into a DuckDB database.
    ```bash
    pip install -r requirements.txt
    ```
+## Download
+- If you dont want to build the app, you can download .exe and use it in your Windows-Desktop from download folder.
 
 ## Usage
 Run the application:
